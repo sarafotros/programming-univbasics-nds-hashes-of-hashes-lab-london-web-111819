@@ -47,8 +47,7 @@ def naming_system
  PORTION_3 = {
   label: "Family",
    sub_category: {
-    label: "Genus",
-  }
+    label: "Genus" }
 }
 
  PORTION_4 = {
